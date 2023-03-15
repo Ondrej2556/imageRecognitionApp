@@ -1,5 +1,19 @@
 Image Recognition App
 
+Installation
+
+To run this application on your local machine, follow these steps:
+
+Clone the repository: git clone https://github.com/your-username/image-recognition-app.git
+Navigate to the project directory: cd image-recognition-app
+Install dependencies: npm install
+Goto App.js file and add your Clarifai API key: SECRET_KEY=your-api-key
+Start the server: npm run server
+Open a new terminal window and start the client: npm start
+The application will be running on http://localhost:3000.
+
+
+
 This is a web application that uses React and Express.js to perform image recognition using the Clarifai API.
 
 Usage
