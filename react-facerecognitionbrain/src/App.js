@@ -30,7 +30,7 @@ function App() {
 
       // Your PAT (Personal Access Token) can be found in the portal under Authentification
       // help me => PAT can be found in https://portal.clarifai.com/settings/authentication (create one if necessary!)
-      const PAT = "e5ae9ebab50c4f2d98e34ed9ef1743a1"; 
+      const PAT = "SECRET_KEY"; 
 
       // help me => App Id is just the name of your app on the portal. 
       const APP_ID = "my-first-application"; 
